@@ -1,0 +1,14 @@
+.App{
+  padding-left: 20%;
+  margin-right: 30%;
+}
+
+.primary{
+  background-color: black;
+  color: green;
+}
+
+.hello{
+  background-color: aquamarine;
+  color: rgb(18, 13, 13);
+}
